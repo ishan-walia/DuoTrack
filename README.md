@@ -128,7 +128,11 @@ In `AndroidManifest.xml`:
   }
 }
 ```
+#ScreenShort
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/ishan-walia/DuoTrack/main/Photo/splashscreen.png" width="260" style="margin-right:20px;">
+</p>
 ## 🔐 Required Permissions
 
 ```xml
