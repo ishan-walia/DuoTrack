@@ -146,7 +146,7 @@ INTERNET
 
 ## 👨‍💻 Developer
 
-**Ishan Walia**  
+**Ishan Walia**  ->> **Walia Creations**
 - GitHub: https://github.com/ishanwalia7579  
 - LinkedIn: https://www.linkedin.com/in/ishanwalia/  
 
