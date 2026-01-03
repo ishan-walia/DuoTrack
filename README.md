@@ -186,3 +186,8 @@ INTERNET
 
 ## ⭐ If you like this project
 Don’t forget to **Star ⭐ the repo!**
+
+## ⭐ Support & Motivation
+
+If this project helped you, please give a ⭐ star.  
+It motivates me to build more free safety apps for India 🇮🇳
