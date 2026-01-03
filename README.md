@@ -55,7 +55,7 @@ This app allows two users to create or join a **Room ID** and track each otherâ€
 - No email, phone or password required  
 - Location is deleted automatically when room ends  
 - Firebase rules protect each room
-- 
+ 
 ### ğŸ” Auto Restart  
 - App automatically resumes tracking after reboot  
 - Uses BootReceiver  
