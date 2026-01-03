@@ -29,7 +29,14 @@ This app allows two users to create or join a **Room ID** and track each other�
 - Real-time smooth tracking  
 - Perfect for friends, couples & families  
 - Works even on slow internet
-  
+
+## 🎯 Use Cases
+
+- Parents tracking children  
+- Friends travelling together  
+- Couples safety tracking  
+- Delivery boy monitoring  
+- Group trekking / hiking  
 ### 🔄 Background Tracking  
 - Works when app minimized  
 - Works when screen locked  
