@@ -21,6 +21,15 @@ This app allows two users to create or join a **Room ID** and track each other�
 - No email / password  
 - Just enter **Room ID** and start tracking  
 
+## 🏆 Why DuoTrack?
+
+- No login, no data misuse  
+- Works even when phone is locked  
+- Very low battery usage  
+- Real-time smooth tracking  
+- Perfect for friends, couples & families  
+- Works even on slow internet
+  
 ### 🔄 Background Tracking  
 - Works when app minimized  
 - Works when screen locked  
