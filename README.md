@@ -36,7 +36,8 @@ This app allows two users to create or join a **Room ID** and track each otherâ€
 - Friends travelling together  
 - Couples safety tracking  
 - Delivery boy monitoring  
-- Group trekking / hiking  
+- Group trekking / hiking
+- 
 ### ğŸ”„ Background Tracking  
 - Works when app minimized  
 - Works when screen locked  
@@ -48,6 +49,13 @@ This app allows two users to create or join a **Room ID** and track each otherâ€
 - Clean UI  
 - Handles both User A and User B  
 
+## ğŸ›¡ Privacy & Security
+
+- DuoTrack does not store personal data  
+- No email, phone or password required  
+- Location is deleted automatically when room ends  
+- Firebase rules protect each room
+- 
 ### ğŸ” Auto Restart  
 - App automatically resumes tracking after reboot  
 - Uses BootReceiver  
