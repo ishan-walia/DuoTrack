@@ -174,5 +174,9 @@ INTERNET
 - GitHub: https://github.com/ishanwalia7579  
 - LinkedIn: https://www.linkedin.com/in/ishanwalia/  
 
+## 📥 Download APK
+
+👉 [Download Latest APK](https://github.com/ishanwalia7579/DuoTrack/releases)
+
 ## ⭐ If you like this project
 Don’t forget to **Star ⭐ the repo!**
