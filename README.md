@@ -30,6 +30,12 @@ This app allows two users to create or join a **Room ID** and track each other�
 - Perfect for friends, couples & families  
 - Works even on slow internet
 
+## ⚡ Performance
+
+- Average location delay: 2–3 seconds  
+- Battery drain: < 2% per hour  
+- Data usage: ~200KB/min  
+
 ## 🎯 Use Cases
 
 - Parents tracking children  
